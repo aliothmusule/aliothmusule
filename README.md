@@ -8,7 +8,7 @@
 ╰(*°▽°*)╯ React 
 Aquí subiré todo tipos de proyectos en base a los conocimientos que vaya generando conforme mi camino como programador.
 
-Ya tuve mi primer delete a la base de datos de una empresa, creo soy un buen candidato como programador.
+Ya tuve mi primer delete a la base de datos de la uni, creo soy un buen candidato como dev.
  (～￣▽￣)～
 <!---
 aliothmusule/aliothmusule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
